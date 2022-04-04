@@ -1,19 +1,27 @@
-Mysterious Broadcast
-100
-Hard
-There used to be 8 Models of humanoid cylon but now there are only 7. We've located one of their broadcast nodes but we can't decode it. Are you able to decipher their technologies?
+# Mysterious Broadcast
+
+## The Problem
+Points: 100
+Rating: Hard
+
+Flavor Text: There used to be 8 Models of humanoid cylon but now there are only 7. We've located one of their broadcast nodes but we can't decode it. Are you able to decipher their technologies?
 
 http://173.230.134.127
 
 Author: blakato
 
 
-hit the site to see whats up
+
+## Solution
 
 ahh battlestar ref
 
+hit the site to see whats up
+
 the site redirects to http://173.230.134.127/seq/c38c5e97-f9d3-47f6-9f99-b369e1e6b482
 and each attempt gets a new seq
+
+![](opening.png)
 
 this likey causes enumeration of directories an issue as they are likely generated at each request
 
@@ -69,11 +77,16 @@ if you split the binary into 7 bit you get
 
 resulting in c2hjdGZ7QXNjaWlJc0E3Qml0U3RhbmRhcmR9Cg==
 
+![](convert.png)
+
 this is a base64 string thanks to the == 
 
-we get shctf{AsciiIsA7BitStandard}
+the flag
+```
+shctf{AsciiIsA7BitStandard}
+```
 
-
+## Final Notes
 
 
 

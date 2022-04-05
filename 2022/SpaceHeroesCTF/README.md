@@ -24,17 +24,17 @@ Event Record: [CTF Time](https://ctftime.org/event/1567)
 ## Challenges 
 | Name | Points | Tags | Writeups |
 |------|--------|------|----------|
-|CapeKennedy|	100|re|[CapeKennedy/README.md](CapeKennedy/README.md)|
-|Curious?|||[Curious/README.md](Curious/README.md)|
-|FlagInSpace|||[FlagInSpace/README.md](FlagInSpace/README.md)|
-|GuardiansOfTheGalaxy|||[GuardiansOfTheGalaxy/README.md](GuardiansOfTheGalaxy/README.md)|
-|Launched|||[Launched/README.md](Launched/README.md)|
-|MysteriousBroadcast|||[MysteriousBroadcast/README.md](MysteriousBroadcast/README.md)|
-|NetflixAndCTF|||[NetflixAndCTF/README.md](NetflixAndCTF/README.md)|
-|R2D2|||[R2D2/README.md](R2D2/README.md)|
-|SpaceBuds|||[SpaceBuds/README.md](SpaceBuds/README.md)|
-|SpaceTraveler|||[SpaceTraveler/README.md](SpaceTraveler/README.md)|
-|Starman|||[Starman/README.md](Starman/README.md)|
+|CapeKennedy|100|re|[CapeKennedy/README.md](CapeKennedy/README.md)|
+|Curious?|100|osint|[Curious/README.md](Curious/README.md)|
+|FlagInSpace|100|web|[FlagInSpace/README.md](FlagInSpace/README.md)|
+|GuardiansOfTheGalaxy|100|pwn|[GuardiansOfTheGalaxy/README.md](GuardiansOfTheGalaxy/README.md)|
+|Launched|100|	osint|[Launched/README.md](Launched/README.md)|
+|MysteriousBroadcast|100|web|[MysteriousBroadcast/README.md](MysteriousBroadcast/README.md)|
+|NetflixAndCTF|100|	forensics|[NetflixAndCTF/README.md](NetflixAndCTF/README.md)|
+|R2D2|100|web|[R2D2/README.md](R2D2/README.md)|
+|SpaceBuds|100|web|[SpaceBuds/README.md](SpaceBuds/README.md)|
+|SpaceTraveler|100|web|[SpaceTraveler/README.md](SpaceTraveler/README.md)|
+|Starman|100|osint|[Starman/README.md](Starman/README.md)|
 
 
 ## Screenshots

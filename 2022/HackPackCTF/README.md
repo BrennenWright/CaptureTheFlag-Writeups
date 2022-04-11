@@ -22,6 +22,7 @@ Event Record: [CTF Time](https://ctftime.org/event/1567)
 
 ## Challenges 
 | Name | Points | Tags | Writeups |
+|------|--------|------|----------|
 |3T_PHON3_HOM3| |re|[3T_PHON3_HOM3/README.md](3T_PHON3_HOM3/README.md)|
 |Geet-into-action| |misc|[Geet-into-action/README.md](Geet-into-action/README.md)|
 |Geet-into-reaction| |misc|[Geet-into-reaction/README.md](Geet-into-reaction/README.md)|

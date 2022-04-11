@@ -1,0 +1,390 @@
+Welcome to my Shop!
+What would you like to do?
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+1
+What would you like to buy?
+1) An Apple (2 coins)
+2) An Orange (6 coins)
+3) The Key to the Flag (100 coins)
+2
+How many Oranges would you like to buy?
+-1
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+-1
+Do you really think this would be so easy to hack?
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+What would you like to buy?
+1) An Apple (2 coins)
+2) An Orange (6 coins)
+3) The Key to the Flag (100 coins)
+2
+How many Oranges would you like to buy?
+-1
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+-1
+Do you really think this would be so easy to hack?
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+What would you like to buy?
+1) An Apple (2 coins)
+2) An Orange (6 coins)
+3) The Key to the Flag (100 coins)
+2
+How many Oranges would you like to buy?
+-1
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+-1
+Do you really think this would be so easy to hack?
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+What would you like to buy?
+1) An Apple (2 coins)
+2) An Orange (6 coins)
+3) The Key to the Flag (100 coins)
+2
+How many Oranges would you like to buy?
+-1
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+-1
+Do you really think this would be so easy to hack?
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+What would you like to buy?
+1) An Apple (2 coins)
+2) An Orange (6 coins)
+3) The Key to the Flag (100 coins)
+3
+How many Keys to the Flag would you like to buy?
+1
+You don't have enough money :(
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+1
+What would you like to buy?
+1) An Apple (2 coins)
+2) An Orange (6 coins)
+3) The Key to the Flag (100 coins)
+2
+How many Oranges would you like to buy?
+-1
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+-1
+Do you really think this would be so easy to hack?
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+What would you like to buy?
+1) An Apple (2 coins)
+2) An Orange (6 coins)
+3) The Key to the Flag (100 coins)
+0
+0 is not a valid option
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+3
+You have 100 gold coins!
+You have 0 Apples!
+You have -15 Oranges!
+You have 0 Keys to the Flag!
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+1
+What would you like to buy?
+1) An Apple (2 coins)
+2) An Orange (6 coins)
+3) The Key to the Flag (100 coins)
+2
+How many Oranges would you like to buy?
+-1
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+-1
+Do you really think this would be so easy to hack?
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+What would you like to buy?
+1) An Apple (2 coins)
+2) An Orange (6 coins)
+3) The Key to the Flag (100 coins)
+0
+0 is not a valid option
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+3
+You have 118 gold coins!
+You have 0 Apples!
+You have -18 Oranges!
+You have 0 Keys to the Flag!
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+1
+What would you like to buy?
+1) An Apple (2 coins)
+2) An Orange (6 coins)
+3) The Key to the Flag (100 coins)
+1
+How many Apples would you like to buy?
+-1
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+-1
+Do you really think this would be so easy to hack?
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+What would you like to buy?
+1) An Apple (2 coins)
+2) An Orange (6 coins)
+3) The Key to the Flag (100 coins)
+0
+0 is not a valid option
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+3
+You have 124 gold coins!
+You have -3 Apples!
+You have -18 Oranges!
+You have 0 Keys to the Flag!
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+1
+What would you like to buy?
+1) An Apple (2 coins)
+2) An Orange (6 coins)
+3) The Key to the Flag (100 coins)
+1
+How many Apples would you like to buy?
+3
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+3
+You have 118 gold coins!
+You have 0 Apples!
+You have -18 Oranges!
+You have 0 Keys to the Flag!
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+1
+What would you like to buy?
+1) An Apple (2 coins)
+2) An Orange (6 coins)
+3) The Key to the Flag (100 coins)
+1
+How many Apples would you like to buy?
+-1
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+-1
+Do you really think this would be so easy to hack?
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+What would you like to buy?
+1) An Apple (2 coins)
+2) An Orange (6 coins)
+3) The Key to the Flag (100 coins)
+0
+0 is not a valid option
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+3
+You have 124 gold coins!
+You have -3 Apples!
+You have -18 Oranges!
+You have 0 Keys to the Flag!
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+2
+What would you like to sell?
+1) An Apple (1 coins)
+2) An Orange (3 coins)
+1
+How many Apples would you like to sell?
+3
+You don't have enough Apples :(
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+1
+What would you like to buy?
+1) An Apple (2 coins)
+2) An Orange (6 coins)
+3) The Key to the Flag (100 coins)
+1
+How many Apples would you like to buy?
+4
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+3
+You have 116 gold coins!
+You have 1 Apples!
+You have -18 Oranges!
+You have 0 Keys to the Flag!
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+2
+What would you like to sell?
+1) An Apple (1 coins)
+2) An Orange (3 coins)
+1
+How many Apples would you like to sell?
+1
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+3
+You have 117 gold coins!
+You have 0 Apples!
+You have -18 Oranges!
+You have 0 Keys to the Flag!
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+1
+What would you like to buy?
+1) An Apple (2 coins)
+2) An Orange (6 coins)
+3) The Key to the Flag (100 coins)
+2
+How many Oranges would you like to buy?
+-1
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+-1
+Do you really think this would be so easy to hack?
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+What would you like to buy?
+1) An Apple (2 coins)
+2) An Orange (6 coins)
+3) The Key to the Flag (100 coins)
+0
+0 is not a valid option
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+3
+You have 135 gold coins!
+You have 0 Apples!
+You have -21 Oranges!
+You have 0 Keys to the Flag!
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+1
+What would you like to buy?
+1) An Apple (2 coins)
+2) An Orange (6 coins)
+3) The Key to the Flag (100 coins)
+1
+How many Apples would you like to buy?
+8
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+3
+You have 119 gold coins!
+You have 8 Apples!
+You have -21 Oranges!
+You have 0 Keys to the Flag!
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+1
+What would you like to buy?
+1) An Apple (2 coins)
+2) An Orange (6 coins)
+3) The Key to the Flag (100 coins)
+3
+How many Keys to the Flag would you like to buy?
+1
+1) Buy
+2) Sell
+3) View Your Inventory
+4) Leave Shop
+3
+You have 19 gold coins!
+You have 8 Apples!
+You have -21 Oranges!
+You have 1 Keys to the Flag!
+Congrats!! You have the key!
+flag{g00d_job_y0u_b3at_7he_sh0pk3eper}
+Time: 1649448938
+How much money do you want to bet?
+
+

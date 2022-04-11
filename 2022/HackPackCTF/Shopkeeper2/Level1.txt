@@ -1,0 +1,131 @@
+
+undefined8 Level1(void)
+
+{
+  int user_input_action;
+  undefined4 local_70 [2];
+  char *local_68 [2];
+  int local_54 [3];
+  char *local_48 [4];
+  uint local_28 [4];
+  int user_input;
+  int local_14;
+  int local_10;
+  char action_picked;
+  bool print_flag;
+  
+  fwrite("Welcome to my Shop!\nWhat would you like to do?\n",1,0x2f,stdout);
+  fflush(stdout);
+  print_flag = true;
+  local_28[0] = 0;
+  local_28[1] = 0;
+  local_28[2] = 0;
+  do {
+    while( true ) {
+      while( true ) {
+        if (print_flag == false) {
+          return 0;
+        }
+        fwrite("1) Buy\n2) Sell\n3) View Your Inventory\n4) Leave Shop\n",1,0x34,stdout);
+        fflush(stdout);
+        user_input_action = getchar();
+        action_picked = (char)user_input_action;
+        getchar();
+        if (action_picked != '2') break;
+        fwrite("What would you like to sell?\n",1,0x1d,stdout);
+        fwrite("1) An Apple (1 coins)\n2) An Orange (3 coins)\n",1,0x2d,stdout);
+        fflush(stdout);
+        user_input = getchar();
+        user_input = user_input + -0x31;
+        getchar();
+        local_68[0] = "Apples";
+        local_68[1] = "Oranges";
+        local_70[0] = 1;
+        local_70[1] = 3;
+        if ((user_input < 0) || (1 < user_input)) {
+          fprintf(stdout,"%c is not a valid option\n",(ulong)(user_input + 0x31));
+          fflush(stdout);
+        }
+        else {
+          fprintf(stdout,"How many %s would you like to sell?\n",local_68[user_input]);
+          fflush(stdout);
+          local_28[3] = getchar();
+          local_28[3] = local_28[3] + -0x30;
+          getchar();
+          if ((int)local_28[user_input] < (int)local_28[3]) {
+            fprintf(stdout,"You don\'t have enough %s :(\n",local_68[user_input]);
+            fflush(stdout);
+          }
+          else {
+            coins = coins + (char)local_70[user_input] * (char)local_28[3];
+            local_28[user_input] = local_28[user_input] - local_28[3];
+          }
+        }
+      }
+      if ('2' < action_picked) break;
+      if (action_picked == -1) {
+                    /* WARNING: Subroutine does not return */
+        exit(1);
+      }
+      if (action_picked == '1') {
+        fwrite("What would you like to buy?\n",1,0x1c,stdout);
+        fwrite("1) An Apple (2 coins)\n2) An Orange (6 coins)\n3) The Key to the Flag (100 coins)\n"
+               ,1,0x50,stdout);
+        fflush(stdout);
+        local_10 = getchar();
+        local_10 = local_10 + -0x31;
+        getchar();
+        local_48[0] = "Apples";
+        local_48[1] = "Oranges";
+        local_48[2] = "Keys to the Flag";
+        local_54[0] = 2;
+        local_54[1] = 6;
+        local_54[2] = 100;
+        if ((local_10 < 0) || (2 < local_10)) {
+          fprintf(stdout,"%c is not a valid option\n",(ulong)(local_10 + 0x31));
+          fflush(stdout);
+        }
+        else {
+          fprintf(stdout,"How many %s would you like to buy?\n",local_48[local_10]);
+          fflush(stdout);
+          local_14 = getchar();
+          local_14 = local_14 + -0x30;
+          getchar();
+          if ((int)(uint)coins < local_54[local_10] * local_14) {
+            fwrite("You don\'t have enough money :(\n",1,0x1f,stdout);
+            fflush(stdout);
+          }
+          else {
+            coins = coins - (char)local_54[local_10] * (char)local_14;
+            local_28[local_10] = local_28[local_10] + local_14;
+          }
+        }
+      }
+      else {
+LAB_0040170f:
+        fwrite("Do you really think this would be so easy to hack?\n",1,0x33,stdout);
+        fflush(stdout);
+      }
+    }
+    if (action_picked == '3') {
+      fprintf(stdout,"You have %d gold coins!\n",(ulong)coins);
+      fprintf(stdout,"You have %d Apples!\n",(ulong)local_28[0]);
+      fprintf(stdout,"You have %d Oranges!\n",(ulong)local_28[1]);
+      fprintf(stdout,"You have %d Keys to the Flag!\n",(ulong)local_28[2]);
+      fflush(stdout);
+      if (0 < (int)local_28[2]) {
+        fwrite("Congrats!! You have the key!\n",1,0x1d,stdout);
+        fflush(stdout);
+        return 1;
+      }
+    }
+    else {
+      if (action_picked != '4') goto LAB_0040170f;
+      fwrite("Goodbye then!\n",1,0xe,stdout);
+      fflush(stdout);
+      print_flag = false;
+    }
+  } while( true );
+}
+
+

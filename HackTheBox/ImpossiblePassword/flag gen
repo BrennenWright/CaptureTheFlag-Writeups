@@ -1,0 +1,38 @@
+  local_48 = 0x41; - A
+  local_47 = 0x5d; - ]
+  local_46 = 0x4b; - K
+  local_45 = 0x72; - r
+  local_44 = 0x3d; - =
+  local_43 = 0x39; - 9
+  local_42 = 0x6b; - k
+  local_41 = 0x30; - 0
+  local_40 = 0x3d; - =
+  local_3f = 0x30; - 0
+  local_3e = 0x6f; - o
+  local_3d = 0x30; - 0
+  local_3c = 0x3b; - ;
+  local_3b = 0x6b; - k
+  local_3a = 0x31; - 1
+  local_39 = 0x3f; - ?
+  local_38 = 0x6b; - k
+  local_37 = 0x38; - 8
+  local_36 = 0x31; - 1
+  local_35 = 0x74; - t
+
+
+void gen_the_flag(byte *param_1)
+
+{
+  int local_14;
+  byte *local_10;
+  
+  local_14 = 0;
+  local_10 = param_1;
+  while ((*local_10 != 9 && (local_14 < 20))) {
+    putchar((int)(char)(*local_10 ^ 9)); //prints
+    local_10 = local_10 + 1;
+    local_14 = local_14 + 1;
+  }
+  putchar(10);
+  return;
+}

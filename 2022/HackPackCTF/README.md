@@ -18,17 +18,21 @@ Event Record: [CTF Time](https://ctftime.org/event/1567)
 
 | Place | CTF points |
 |-------|------------|
-|    |        |
-
+| 28th| 1224|
 
 ## Challenges 
 | Name | Points | Tags | Writeups |
+|3T_PHON3_HOM3| |re|[3T_PHON3_HOM3/README.md](3T_PHON3_HOM3/README.md)
+|Geet-into-action| |misc|[Geet-into-action/README.md](Geet-into-action/README.md)
+|Geet-into-reaction| |misc|[Geet-into-reaction/README.md](Geet-into-reaction/README.md)
+|Shopkeeper1| |web|[Shopkeeper1/README.md](Shopkeeper1/README.md)
+|Shopkeeper2| |web|[Shopkeeper2/README.md](Shopkeeper2/README.md)
+|Shopkeeper3| |web|[Shopkeeper3/README.md](Shopkeeper3/README.md)
+|TupleCoin| ||[TupleCoin/README.md](TupleCoin/README.md)
+
 
 
 
 
 
 ## Screenshots
-
-![landing](landing.png)
-![finalscore](finalscore.png)

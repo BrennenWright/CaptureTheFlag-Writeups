@@ -1,1 +1,8 @@
+
+# dont include the working directories for ghidra
 *.rep/*
+/2022/*/*.rep/*
+
+# dont push active chalenges as they conflict with the usage rules
+HackTheBox/*
+picoCTF/* 

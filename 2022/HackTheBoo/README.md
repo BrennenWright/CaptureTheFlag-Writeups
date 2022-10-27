@@ -1,5 +1,5 @@
 # Hack The Boo
-
+<img src="./HTBoo-banner.png" width="400"/>
 
 
 ## About this Event
@@ -26,7 +26,6 @@ Official URL: https://ctf.hackthebox.com/event/637
 
 Event Record: [CTF Time](https://ctftime.org/event/1567)
 
-![](HTBoo-banner.png | width=100)
 
 ## Score
 

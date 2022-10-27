@@ -39,27 +39,27 @@ Event Record: [CTF Time](https://ctftime.org/event/1567)
 ## Challenges
 | Name | Points | Tags | Writeups |
 |------|--------|------|----------|
-|Evaluation Deck | |web, easy|[]]()|
-|Spookifier | |web, easy|[]]()|
-|Horror Feeds| |web, easy|[]]()|
+|Evaluation Deck | |web, easy|[Evaluation Deck](./Evaluation%20Deck/README.md)|
+|Spookifier | |web, easy|[Spookifier](./Spookifier/README.md)|
+|Horror Feeds| |web, easy|[Horror Feeds](./Horror%20Feeds/README.md)|
 |Juggling Facts| |web, easy|[Juggling Facts](./Juggling%20Facts/README.md)|
 |Cursed Secret Party| |web, medium|[Cursed Secret Party](./Cursed%20Secret%20Party/README.md)|
 
 | Name | Points | Tags | Writeups |
 |------|--------|------|----------|
-|Pumpkin Stand| |Pwn, easy|[]]()|
-|Entity| |Pwn, easy|[]]()|
-|Pumpking| |Pwn, easy|[]]()|
-|Spooky Time| |Pwn, easy|[]]()|
-|Finale| |Pwn, medium|[]]()|
+|Pumpkin Stand| |Pwn, easy|[Pumpkin Stand](./Pumpkin%20Stand/README.md)|
+|Entity(need to run this)| |Pwn, easy|[Entity](./Entity/README.md)|
+|Pumpking(need to run this)| |Pwn, easy|[Pumpking](./Pumpking/README.md)|
+|Spooky Time(need to run this)| |Pwn, easy|[]()|
+|Finale(need to run this)| |Pwn, medium|[]()|
 
 | Name | Points | Tags | Writeups |
 |------|--------|------|----------|
-|Cult Meeting| |Reversing, easy|[]]()|
-|EncodedPayload| |Reversing, easy|[]]()|
-|Ghost Wrangler| |Reversing, easy|[]]()|
-|Ouija| |Reversing, easy|[]]()|
-|Secured Transfer| |Reversing, medium|[]]()|
+|Cult Meeting| |Reversing, easy|[Cult Meeting](./Cult%20Meeting/README.md)|
+|EncodedPayload| |Reversing, easy|[EncodedPayload](./EncodedPayload/README.md)|
+|Ghost Wrangler| |Reversing, easy|[Ghost Wrangler](./Ghost%20Wrangler/README.md)|
+|Ouija| |Reversing, easy|[Ouija](./Ouija/README.md)|
+|Secured Transfer| |Reversing, medium|[Secured Transfer](./Secured%20Transfer/README.md)|
 
 | Name | Points | Tags | Writeups |
 |------|--------|------|----------|
@@ -71,7 +71,7 @@ Event Record: [CTF Time](https://ctftime.org/event/1567)
 
 | Name | Points | Tags | Writeups |
 |------|--------|------|----------|
-|Wrong Spooky Season| |Forensics, easy|[]]()|
+|Wrong Spooky Season| |Forensics, easy|[Wrong Spooky Season](./Wrong%20Spooky%20Season/README.md)|
 |Trick or Breach| |Forensics, easy|[]]()|
 |Halloween Invitation| |Forensics, easy|[]]()|
 |POOF| |Forensics, easy|[]]()|

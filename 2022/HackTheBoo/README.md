@@ -27,6 +27,7 @@ Official URL: https://ctf.hackthebox.com/event/637
 Event Record: [CTF Time](https://ctftime.org/event/1567)
 
 
+
 ## Score
 
 | Place | CTF points |
@@ -71,7 +72,7 @@ Event Record: [CTF Time](https://ctftime.org/event/1567)
 | Name | Points | Tags | Writeups |
 |------|--------|------|----------|
 |Wrong Spooky Season| |Forensics, easy|[Wrong Spooky Season](./Wrong%20Spooky%20Season/README.md)|
-|Trick or Breach| |Forensics, easy|[]]()|
+|Trick or Breach| |Forensics, easy|[Trick or Breach](./Trick%20or%20Breach/README.md)|
 |Halloween Invitation| |Forensics, easy|[]]()|
 |POOF| |Forensics, easy|[]]()|
 |Downgrade| |Forensics, medium|[]]()|
